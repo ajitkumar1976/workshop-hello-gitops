@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: ajitkumar1976/hello-gitops
-  newTag: 7a703c8f8bb1d461b5f5e7fdd4c23c86761bd017
+  newTag: 2d2c2f0aabf0cb486b9775bbd0f57fd49be7e87a
